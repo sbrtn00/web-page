@@ -4,10 +4,9 @@ body{
     padding: 0;
     margin: 0;
     font: normal 10.6666666667px 'Titillium Web', sans-serif;
-    background: linear-gradient(54deg, #9164ff, #8bfff4);
+    background: linear-gradient(270deg, #000, #7F8487);
     color: #3c3f64;
     overflow-x: hidden;
-    padding-bottom: 50px;
   }
 .hw-100{
   width: 100vw;

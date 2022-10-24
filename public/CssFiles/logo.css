@@ -1,12 +1,11 @@
   .container-logo {
-   /* background-image: url('/Users/serhatkumas/Desktop/OppsWebsite/public/assets/images/background.jpg'); */
     background-size: cover;
     color: #fff;
     text-align: center;
     vertical-align: middle;
   }   
   .logo {
-      text-shadow: -5px 5px 20px #AAA492;
+      text-shadow: -5px 10px 20px gray;
       color: white;
       letter-spacing: -0.05em;
       font-family: 'Acme', sans-serif;
@@ -17,12 +16,9 @@
 
   #sub-logo{
     font-size: 5vh;
-    text-shadow: -5px 5px 20px #AAA492;
+    text-shadow: -5px 10px 20px gray;
   }
   .center{
     padding-top: 25vh;
   }
   
-  /*.logo:hover {
-      text-shadow: -16px 6px 75px #A2B5BB;
-  } */
